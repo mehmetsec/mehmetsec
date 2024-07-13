@@ -1,5 +1,5 @@
 <p align=center>
-  ```python
+```python
 
   mehmet@archlinux:~$ neofetch
                    A                      mehmet@archlinux
@@ -21,5 +21,5 @@
    /######***             ***######\
   /###**                       **###\
  /**                               **\\
-  ```
+ ```
 </p>
